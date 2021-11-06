@@ -26,7 +26,7 @@ header {
 .card {
   max-width:500px;
   margin:48px auto;
-  padding:16px;
+  padding:16px 24px;
   background-color:white;
   border-bottom:8px solid #666;
 }
@@ -34,8 +34,8 @@ header {
 .indented-heading {
   background-color: #F4C142;
   border-bottom:8px solid #C39A33;
-  padding:16px 24px;
-  margin-left:-24px;
+  padding:16px 32px;
+  margin-left:-32px;
   margin-top:-8px;
   width:fit-content;
 }
